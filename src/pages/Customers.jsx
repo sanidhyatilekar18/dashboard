@@ -39,7 +39,7 @@ function Customers() {
   };
 
   return (
-    <div className="mt-10 w-full max-w-screen px-2 sm:px-4">
+    <div className="mt-20 w-full max-w-screen px-2 sm:px-4 ">
       <h1 className="text-2xl sm:text-3xl font-bold mb-4">Customer Management</h1>
 
       <div className="mb-6 flex flex-col md:flex-row gap-4 flex-wrap">
