@@ -46,30 +46,43 @@ A sleek, responsive admin dashboard built with **React** and **Vite**, featuring
 ---
 
 ## 📸 Screenshots
-🏠 **Home Page Overview**
+🏠 **Home Page **
+
+<img width="1920" height="1080" alt="Screenshot (36)" src="https://github.com/user-attachments/assets/fda0bb3e-2cf6-4f73-b497-dae459db716a" />
 
 📦 **Orders**
+
+<img width="1920" height="1080" alt="Screenshot (37)" src="https://github.com/user-attachments/assets/a3e24d3d-c4ee-46ab-8dbb-f882a47cb572" />
 
 
 👥 **Customers**
 
+<img width="1920" height="1080" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/8ec34508-e047-49dd-9f12-ccb797448481" />
+
 
 👨‍💼 **Employees** 
 
+<img width="1920" height="1080" alt="Screenshot (38)" src="https://github.com/user-attachments/assets/84c85c20-0c12-4d96-902f-2653f4342038" />
 
 ### 📅 Productivity Tools
 
 📆 **Calendar**
 
+<img width="1920" height="1080" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/3177ca5e-9a8c-4780-b369-189e7cdede59" />
 
 🧩 **Kanban Board**
 
+<img width="1920" height="1080" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/faf2cf9f-cd41-4a08-a02a-f952cdeb5e10" />
 
 
 ### 📊 Data Visualization 
+<img width="1920" height="1080" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/5bfc0227-bdae-40c6-8512-c72fdd06ebb9" />
+
+<img width="1920" height="1080" alt="Screenshot (44)" src="https://github.com/user-attachments/assets/231dae38-b7de-402d-b173-0492197dcb37" />
 
 
-
+<img width="1920" height="1080" alt="Screenshot (43)" src="https://github.com/user-attachments/assets/a5902ba2-cabf-4af9-baad-5ba583638a3b" />
+<img width="1920" height="1080" alt="Screenshot (45)" src="https://github.com/user-attachments/assets/fe279673-5b6c-446a-b6ed-8d3cbc39f1e5" />
 
 ---
 
